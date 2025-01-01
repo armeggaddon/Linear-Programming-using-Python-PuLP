@@ -65,3 +65,5 @@ an hour of prep time. Additionally, Shilpa has set a limit of 16 hours for the t
  
 To optimize her earnings, how many hours per week should Shilpa allocate to working at Job X and Job Y, considering she earns $40 per
 hour at Job X and $30 per hour at Job Y?
+
+This can be solved using Python PuLP package and the same is demonstrated in the Notebook.
