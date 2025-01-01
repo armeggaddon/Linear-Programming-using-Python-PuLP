@@ -1,5 +1,5 @@
 # Linear Programming using Python PuLP
-**This repository demonstrates how to use Linear programming using python package called pulp for optimization problem**
+** This repository demonstrates how to use Linear programming using python package called pulp for optimization problem **
 
      Examining real-world challenges reveals that there are numerous approaches to guiding a problem toward a solution. Some methods may be intricate, while others could be straightforward. The effectiveness of the solution largely hinges on our strategy towards the issue at hand.
 
