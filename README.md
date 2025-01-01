@@ -1,7 +1,7 @@
 # Linear Programming using Python PuLP
 *This repository demonstrates how to use Linear programming using python package called pulp for optimization problem*
 
-     Examining real-world challenges reveals that there are numerous approaches to guiding a problem toward a solution. Some methods may be intricate, while others could be straightforward. The effectiveness of the solution largely hinges on our strategy towards the issue at hand.
+Examining real-world challenges reveals that there are numerous approaches to guiding a problem toward a solution. Some methods may be intricate, while others could be straightforward. The effectiveness of the solution largely hinges on our strategy towards the issue at hand.
 
 Reflecting on my university years, I recall studying heat and mass transfer principles, specifically how the flow of a liquid through a cylindrical pipe is influenced by various parameters. As we consider each factor incrementally, the precision of our understanding of the liquid's flow improves. Initially, we might think about the liquid's density, but further contemplation might lead us to consider its viscosity, boiling point, the type of container it's flowing through, ambient temperature, the friction between the liquid and the container, and the pipe's diameter, which affects its surface area, among other things.
 
