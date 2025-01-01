@@ -41,13 +41,13 @@ To resolve linear programming issues, one might employ strategies such as the Si
 
 Linear programming has a wide array of applications across different sectors. Here are some typical instances where it is applied:
 
-**Optimizing Resource Utilization*: Companies employ linear programming to efficiently distribute resources like workforce, materials, and machinery to either augment profits or diminish expenses.
-**Scheduling Manufacturing Processes*: This method aids in organizing production timelines to ensure optimal employment of factory machinery and workforce while adhering to deadlines.
-**Nutritional Planning*: Linear programming is instrumental in creating the most economical dietary plan that meets all nutritional standards, often referred to as the "diet problem" within the field.
-**Streamlining Transportation and Logistics*: It is utilized to figure out the most cost-effective strategies for routing and timing deliveries, reducing the expenses associated with transporting goods.
-**Managing Network Traffic*: Linear programming is applied to network construction and traffic control to enhance the flow across a network, aiming to reduce blockages or increase capacity.
-**Investment Portfolio Management*: In the financial arena, linear programming can be harnessed to amplify returns or minimize risks in an investment portfolio, while observing limitations such as budget or risk preferences.
-**Energy Systems Planning*: It is used to strategize and manage energy production and distribution, cutting costs by taking into account variables like consumer demand, fuel prices, and environmental laws.
+* *Optimizing Resource Utilization*: Companies employ linear programming to efficiently distribute resources like workforce, materials, and machinery to either augment profits or diminish expenses.
+* *Scheduling Manufacturing Processes*: This method aids in organizing production timelines to ensure optimal employment of factory machinery and workforce while adhering to deadlines.
+* *Nutritional Planning*: Linear programming is instrumental in creating the most economical dietary plan that meets all nutritional standards, often referred to as the "diet problem" within the field.
+* *Streamlining Transportation and Logistics*: It is utilized to figure out the most cost-effective strategies for routing and timing deliveries, reducing the expenses associated with transporting goods.
+* *Managing Network Traffic*: Linear programming is applied to network construction and traffic control to enhance the flow across a network, aiming to reduce blockages or increase capacity.
+* *Investment Portfolio Management*: In the financial arena, linear programming can be harnessed to amplify returns or minimize risks in an investment portfolio, while observing limitations such as budget or risk preferences.
+* *Energy Systems Planning*: It is used to strategize and manage energy production and distribution, cutting costs by taking into account variables like consumer demand, fuel prices, and environmental laws.
 
 #### Real-Time Problem Solving:
  
