@@ -9,13 +9,13 @@ This analogy may seem tangential, but the essence is that being aware of the env
 
 Similarly, in the software industry, we encounter numerous problems for which various solutions exist. However, the efficiency of a solution often doesn't become a concern until we're forced to optimize for factors like performance, efficiency, and maintenance. I remember encountering a particular challenge some time ago, and that's when I appreciated how **Linear Programming**, which we studied in school, can be incredibly useful in practice. Let's delve into a discussion about that.
 
-#### Linear Programming Overview:
+### Linear Programming Overview:
 
 Linear programming is a mathematical approach designed to optimize processes within certain restrictions. Its primary goal is to either increase or decrease a numerical value to its utmost extent. This technique involves linear functions that are constrained by a series of linear equations or inequalities. Linear programming is recognized as a crucial method for achieving optimal resource utilization. Breaking down the term "linear programming," 'linear' refers to the direct proportionality between variables of the first degree. Meanwhile, 'programming' relates to the procedure of choosing the most favorable solution from a set of possible options.
 
 Linear programming has broad applications across various disciplines, including mathematics, as well as in fields like economics, business, telecommunications, and manufacturing. In this discussion, we will explore the concept of linear programming, its key components, and the strategies for solving linear programming challenges.
 
-#### What is Linear Programming:
+### What is Linear Programming:
 
 Linear programming (LP), also referred to as Linear Optimization, is the process of maximizing or minimizing a linear objective function subject to a set of linear constraints, which can take the form of either equalities or inequalities. These optimization problems frequently revolve around computing gains and losses. As a significant category of optimization, linear programming is instrumental in identifying the feasible region—the set of possible solutions—and refining the outcome to achieve the maximum or minimum value of the objective function.
 
@@ -23,7 +23,7 @@ Put simply, linear programming serves as a strategy for optimizing an objective 
 
 Essentially, linear programming involves assessing various inequalities pertinent to a particular situation and determining the most favorable outcome within those specific parameters.
 
-#### Components of Linear Programming:
+### Components of Linear Programming:
 
 ***Target Function***: This refers to the specific function that is to be either maximized or minimized. It is commonly a linear function expressed as f(x) = c1x1 + c2x2 + ... + cnxn, where c1, c2, ..., cn represent the coefficients and x1, x2, ..., xn represent the variables involved.
 
@@ -33,11 +33,11 @@ Essentially, linear programming involves assessing various inequalities pertinen
 
 ***Non-Negative Constraints***: This stipulation mandates that all variables must be non-negative, meaning x1, x2, ..., xn ≥ 0. This is because in many practical scenarios, negative figures do not make logical sense (for example, negative amounts of inventory are impossible).
 
-#### Approaches to Linear Programming:
+### Approaches to Linear Programming:
 
 To resolve linear programming issues, one might employ strategies such as the Simplex method, Graphical techniques (suitable for two-variable scenarios), or Interior Point methods. Additionally, computational tools like Python or specialized software like open solver can be utilized. The objective is to ascertain the set of variable values that will optimize the target function while adhering to all the given limitations.
 
-#### Uses of Linear Programming:
+### Uses of Linear Programming:
 
 Linear programming has a wide array of applications across different sectors. Here are some typical instances where it is applied:
 
@@ -49,7 +49,7 @@ Linear programming has a wide array of applications across different sectors. He
 * *Investment Portfolio Management*: In the financial arena, linear programming can be harnessed to amplify returns or minimize risks in an investment portfolio, while observing limitations such as budget or risk preferences.
 * *Energy Systems Planning*: It is used to strategize and manage energy production and distribution, cutting costs by taking into account variables like consumer demand, fuel prices, and environmental laws.
 
-#### Real-Time Problem Solving:
+### Real-Time Problem Solving:
  
 Linear programming can be adapted to solve problems in real-time by using it within decision support tools that take current data as input and provide optimized solutions almost instantaneously. With advances in computational power and algorithms, it is increasingly possible to solve complex linear programming problems in real-time, making it a valuable tool for dynamic and time-sensitive decision-making in industries such as finance, transportation, manufacturing, and energy.
 
